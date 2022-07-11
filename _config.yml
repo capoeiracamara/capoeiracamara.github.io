@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Capoeira Camara
+url: "https://сapoeiracamara.github.io/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,15 +10,15 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Неофициальная библиотека знаний школы Capoeira Camara
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: Шаблон в GitHub
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://github.com/capoeiracamara/capoeiracamara.github.io/
 
 # -----
 # Build
@@ -70,16 +70,8 @@ defaults:
     values:
       body_class: "show_hero_search"
 
-# -----------
-# CloudCannon
-
 social_icons:
-  - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - Email
