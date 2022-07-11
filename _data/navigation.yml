@@ -1,6 +1,10 @@
-- name: Tutorials
+- name: Главная
   link: /
-- name: Videos
-  link: /videos/
-- name: FAQ
+- name: Частые вопросы
   link: /faq/
+- name: База знаний
+  link: /knowledge-base/
+- name: Видео
+  link: /videos/
+- name: О нас
+  link: /about/
