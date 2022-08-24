@@ -1,0 +1,7 @@
+---
+---
+{% assign songs = site.posts | where: "type", "Song" | sort: "title" %}
+
+<h2>Песен <span class="count">({{ songs | size }})</span></h2>
+
+{% include listings.html listings=songs %}
