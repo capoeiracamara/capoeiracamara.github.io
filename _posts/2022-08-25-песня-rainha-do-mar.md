@@ -9,8 +9,8 @@ type: Song
 
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
 <tr>
-<td width="50%"><h1>Текст</h1></td>
-<td width="50%"><h1>Транскрипция</h1></td>
+<td width="50%"><h2>Текст</h2></td>
+<td width="50%"><h2>Транскрипция</h2></td>
 </tr>
 <tr>
 <td width="50%">
@@ -97,7 +97,7 @@ No mar (mora Iemanjá)
 </tr>
 </table>
 
-# Перевод
+## Перевод
 
 Когда море уходит,<br />
 Иди ее навести,<br />
@@ -120,6 +120,6 @@ No mar (mora Iemanjá)
 
 1. [Йемайя](https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BC%D0%B0%D0%B9%D1%8F) - богиня моря.
 
-# Хотите послушать?
+## Хотите послушать?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/63W-6MGi06c" title="Слушать на YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
